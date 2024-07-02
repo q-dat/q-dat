@@ -1,5 +1,7 @@
 
 # Hello World 👋
+My name is Quoc Dat and I'm a Front End Developer. Welcome to my GitHub!✨
+
 # 📊GitHub Stats:
 <div align="center">
   <a href="https://github.com/silviajcn"></a>
