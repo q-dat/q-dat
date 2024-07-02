@@ -2,7 +2,8 @@
 
 My name is Quoc Dat and I'm a Front End Developer. Welcome to my GitHub!✨
 
-<img width="18%" align="right" style="margin-right:5%" alt="img" src="" />
+<img width="18%" align="right" style="margin-right:5%" alt="img" 
+src="https://e7.pngegg.com/pngimages/872/664/png-clipart-owl-bird-illustration-big-eyes-bird-people-sticker.png" />
 
 ### About Me 👨🏻‍💻
 
