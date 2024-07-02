@@ -22,7 +22,7 @@ src="https://e7.pngegg.com/pngimages/872/664/png-clipart-owl-bird-illustration-b
   <a href="https://github.com/silviajcn"></a>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=q-dat&theme=react&hide_border=false&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=q-dat&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=q-dat&theme=react&hide_border=false"/>
+<!--   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=q-dat&theme=react&hide_border=false"/> -->
 </div> 
 
 ### Languages and Tools:
