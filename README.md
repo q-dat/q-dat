@@ -10,7 +10,7 @@ src="https://e7.pngegg.com/pngimages/872/664/png-clipart-owl-bird-illustration-b
 - 💻 I’m currently learning Databases and TypeScript.
 - 🎯 2024 & 2025 Goals:
   - Create a page like an app that tracks my habits 🗓️
-  - Improve my english. 😍
+  - Improve my English. 😍
 - 📌  Future goals:
   - Learn React Native. 🤓
   - Learn Chinaese. 😍
