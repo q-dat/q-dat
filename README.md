@@ -16,7 +16,7 @@ src="https://e7.pngegg.com/pngimages/872/664/png-clipart-owl-bird-illustration-b
   - Learn Chinaese. 😍
 - ⚡ Fun fact: I love music and workouts.
 
-![](https://komarev.com/ghpvc/?username=your-github-q-dat&style=for-the-badge)
+<br>
 <hr>
 
 <div align="center">
@@ -25,6 +25,7 @@ src="https://e7.pngegg.com/pngimages/872/664/png-clipart-owl-bird-illustration-b
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=q-dat&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 <!--   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=q-dat&theme=react&hide_border=false"/> -->
   
+![](https://komarev.com/ghpvc/?username=your-github-q-dat&style=for-the-badge)
 </div>
 
 ### Skills:
