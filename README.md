@@ -3,7 +3,7 @@
 </p>
 
 
-# Hi, I'm Dat <img src="https://user-images.githubusercontent.com/10743728/100195412-e2ca3780-2f29-11eb-98b0-26af8496f704.gif" width="36px" /> 
+# Hi, I'm Dat 🇻🇳<img src="https://user-images.githubusercontent.com/10743728/100195412-e2ca3780-2f29-11eb-98b0-26af8496f704.gif" width="36px" /> 
 
 My name is Quoc Dat and I'm a Front End Developer. Welcome to my GitHub!✨
 
