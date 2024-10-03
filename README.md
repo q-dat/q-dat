@@ -22,8 +22,7 @@ src="https://i.ibb.co/HCYRh2V/img.png" />
 - ⚡ Fun fact: I love music and workouts.
 
 <br>
-<hr>
-
+<img width="100%" loading="lazy" src="assets/rainbow-superthin.webp" />
 <div align="center">
   <a href="https://github.com/silviajcn"></a>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=q-dat&theme=react&hide_border=false&include_all_commits=true&count_private=true"/>
