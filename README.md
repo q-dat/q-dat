@@ -31,7 +31,8 @@ src="https://i.ibb.co/HCYRh2V/img.png" />
   
 ![](https://komarev.com/ghpvc/?username=your-github-q-dat&style=for-the-badge)
 </div>
-<img width="100%" loading="lazy" src="./github-user-contribution.svg" />
+<!-- <img width="100%" loading="lazy" src="./github-user-contribution.svg" /> -->
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/q-dat/q-dat/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/q-dat/q-dat/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
