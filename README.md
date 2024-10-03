@@ -22,6 +22,7 @@ src="https://i.ibb.co/HCYRh2V/img.png" />
 - ⚡ Fun fact: I love music and workouts.
 
 <br>
+<img width="100%" loading="lazy" src="./github-user-contribution.svg" />
 <img width="100%" loading="lazy" src="./rainbow-superthin.webp" />
 <div align="center">
   <a href="https://github.com/silviajcn"></a>
