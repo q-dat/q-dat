@@ -24,10 +24,9 @@ src="https://i.ibb.co/HCYRh2V/img.png" />
 <br>
 <img width="100%" loading="lazy" src="./rainbow-superthin.webp" />
 <div align="center">
-  <a href="https://github.com/silviajcn"></a>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=q-dat&theme=react&hide_border=false&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=q-dat&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-<!--   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=q-dat&theme=react&hide_border=false"/> -->
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=q-dat&theme=react&hide_border=false"/>
   
 ![](https://komarev.com/ghpvc/?username=your-github-q-dat&style=for-the-badge)
 </div>
