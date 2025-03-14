@@ -13,7 +13,7 @@ src="https://i.ibb.co/HCYRh2V/img.png" />
 ### About Me 👨🏻‍💻
 
 - 💻 I’m currently learning Node and TypeScript.
-- 🎯 2024 & 2025 Goals:
+- 🎯 2025 & 2026 Goals:
   - Create a page like an app that tracks my habits 🗓️
   - Improve my English. 😍
 - 📌  Future goals:
