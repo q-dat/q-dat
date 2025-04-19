@@ -6,20 +6,14 @@
 # Hi, I'm Dat <img src="https://user-images.githubusercontent.com/10743728/100195412-e2ca3780-2f29-11eb-98b0-26af8496f704.gif" width="36px" /> 
 
 My name is Quoc Dat and I'm a Front End Developer. Welcome to my GitHub!✨
-
+<div>
+  
 <img width="25%" align="right" style="margin-right:5%" alt="img" 
 src="https://i.ibb.co/HCYRh2V/img.png" />
 
-### About Me 👨🏻‍💻
-
-- 💻 I’m currently learning Node and TypeScript.
-- 🎯 2025 & 2026 Goals:
-  - Create a page like an app that tracks my habits 🗓️
-  - Improve my English. 😍
-- 📌  Future goals:
-  - Learn React Native. 🤓
-  - Learn Chinaese. 😍
-- ⚡ Fun fact: I love music and workouts.
+<img width="25%" align="left" style="margin-right:5%" alt="img" 
+src="https://i.ibb.co/HCYRh2V/img.png" />
+</div>
 
 <br>
 <img width="100%" loading="lazy" src="./rainbow-superthin.webp" />
