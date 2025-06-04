@@ -3,30 +3,25 @@
 </p>
 
 
-# Hi, I'm Dat <img src="https://user-images.githubusercontent.com/10743728/100195412-e2ca3780-2f29-11eb-98b0-26af8496f704.gif" width="36px" /> 
+# Hi, I'm Dat <img src="https://user-images.githubusercontent.com/10743728/100195412-e2ca3780-2f29-11eb-98b0-26af8496f704.gif" width="36px" />  ![](https://komarev.com/ghpvc/?username=your-github-q-dat&style=for-the-badge)
 
 My name is Quoc Dat and I'm a Front End Developer. Welcome to my GitHub!✨
-<div>
-  
-<img width="25%" align="right" style="margin-right:5%" alt="img" 
-src="https://i.ibb.co/HCYRh2V/img.png" />
 
-<img width="25%" align="left" style="margin-right:5%" alt="img" 
-src="https://i.ibb.co/HCYRh2V/img.png" />
+<div align="center">
+<!-- <img width="25%" align="right" style="margin-right:5%" alt="img" src="https://i.ibb.co/HCYRh2V/img.png" /> -->
 </div>
 
 <br>
-<img width="100%" loading="lazy" src="./rainbow-superthin.webp" />
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=q-dat&theme=react&hide_border=false&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=q-dat&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=q-dat&theme=react&hide_border=false"/>
+<!--   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=q-dat&theme=react&hide_border=false&include_all_commits=true&count_private=true"/> -->
+<!--     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=q-dat&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=q-dat&theme=react&hide_border=false"/> -->
   
-![](https://komarev.com/ghpvc/?username=your-github-q-dat&style=for-the-badge)
 </div>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/q-dat/q-dat/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/q-dat/q-dat/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<img width="100%" loading="lazy" src="./rainbow-superthin.webp" />
 
 ### Skills:
 
